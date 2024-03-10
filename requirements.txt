@@ -1,4 +1,3 @@
-fastapi
 uvicorn
 gunicorn
 --index-url https://download.pytorch.org/whl/cpu
